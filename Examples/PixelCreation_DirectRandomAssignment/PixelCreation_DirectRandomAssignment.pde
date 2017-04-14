@@ -1,3 +1,8 @@
+// #codingformat workshop
+// ashley james brown
+// 2017
+
+
 // cycle through an image pixel array
 // and randomly pick a colour to assign to the grid squares
 // 

@@ -1,3 +1,7 @@
+// #codingformat workshop
+// ashley james brown
+// 2017
+
 //global vars
 
 PImage img;
